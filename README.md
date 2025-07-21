@@ -14,5 +14,4 @@ A simple terminal-based password manager using `sqlite3`, `cryptography`, and `g
 🧪 To run:
 ```bash
 cd Password_Manager
-pip install -r requirements.txt
 python password_manager.py
